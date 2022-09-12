@@ -16,7 +16,7 @@ export const main = {
   name: "Anwardeen M",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://docs.google.com/document/d/1TUGzHQ3H78QclD7C1CxYb-_Mgz0yAQY7wmYqnLZrymg/edit?usp=sharing",
+    "https://drive.google.com/file/d/1xBMuSWtcMUcMk8vz6s_mlfB1dVSAwmbi/view?usp=sharing",
 };
 
 // AboutMe

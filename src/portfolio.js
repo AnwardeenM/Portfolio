@@ -19,6 +19,8 @@ export const main = {
     "https://drive.google.com/file/d/1w8sz3NVLU-8dKZkmFnJDeKBo6zoiG914/view?usp=sharing",
 };
 
+//Resume link is been updated
+
 // AboutMe
 export const aboutme = {
   imgLink:
